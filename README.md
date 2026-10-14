@@ -1,1 +1,2 @@
 # coin-dash
+this took me a few minutes to learn. It also helped me to learn how to learn. What do I mean? It helped me explore script, it's purpose and how it changes what the program actually does.
